@@ -1,2 +1,2 @@
 # Psychic-Game
-An amazing game that will guess the letter you're thinking!
+Try and guess the letter! If you can, you win!
