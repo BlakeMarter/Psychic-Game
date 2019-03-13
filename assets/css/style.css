@@ -1,0 +1,28 @@
+body {
+    background-image: url(../images/Psychic1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #000000;
+    text-align: center;
+}
+
+.container {
+    color: #fdf5e6;
+    margin-top: 7%;
+    font-family: Luminari, fantasy;
+}
+
+.title {
+    text-decoration: underline;
+}
+
+.psychicAct {
+    padding-top: 170px;
+    
+}
+
+h3 {
+    text-decoration: none;
+}
+
